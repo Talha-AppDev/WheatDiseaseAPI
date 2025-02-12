@@ -1,9 +1,9 @@
-fastapi==0.68.0
-uvicorn==0.15.0
-gunicorn==20.1.0
-tensorflow==2.18.0  # Newer TensorFlow version
-Pillow==9.0.0
-numpy==1.22.0
-python-multipart==0.0.5
+fastapi
+uvicorn
+gunicorn
+tensorflow
+Pillow
+numpy
+python-multipart
 
 
